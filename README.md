@@ -4,7 +4,48 @@
 
 Below is some useful information about me you might want to check out. Or even better, check out my simple web portfolio! It's not much at the moment, but I will be adding to it :wink:
 
-#### Info About Me
+### My Skills and Interests
+
+**Project Management**
+
+Agile
+
+Scrum
+
+Trello
+
+**Web Development**
+
+ReactJS
+
+HTML/CSS/JS
+
+Bulma
+
+Boostrap
+
+jQuery
+
+**Web and Graphic Design**
+
+Canva
+
+Adobe XD
+
+Gravit
+
+Flex
+
+Photoshop
+
+**Mobile Development**
+
+React Native
+
+**Game Development and Design**
+
+C# and Unity
+
 
 <!--
 **TomRich01/TomRich01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
