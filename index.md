@@ -6,35 +6,21 @@ You can find me on GitHub or at my other site [WithAliquid.com](withaliquid.com)
 
 **Project Management**
 
-Agile
-
-Scrum
-
-Trello
+Agile/Scrum/Trello
 
 **Web Development**
 
-ReactJS
+ReactJS/jQuery
 
 HTML/CSS/JS
 
-Bulma
-
-Boostrap
-
-jQuery
+Bulma/Boostrap
 
 **Web and Graphic Design**
 
-Canva
+Canva/Gravit/Flex
 
-Adobe XD
-
-Gravit
-
-Flex
-
-Photoshop
+Adobe XD/Photoshop
 
 **Mobile Development**
 
@@ -42,7 +28,7 @@ React Native
 
 **Game Development and Design**
 
-C# and Unity
+C#/Unity
 
 
 ### Current Project
@@ -50,10 +36,3 @@ C# and Unity
 Currently, I'm working on a working prototype of a match-making site called [Matcher](matcher.withaliquid.com)
 
 The project uses Bulma/CSS/SASS for the front-end and Nodejs/ExpressJS for the back-end. 
-
-**What's Not Working**
-
-Server issue between NodeJS/ExpressJS, mySQL, and the host.
-
-Bulma container issue (single issue involving text that has partially been fixed)
-
