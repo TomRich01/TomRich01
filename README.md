@@ -8,11 +8,7 @@ Below is some useful information about me you might want to check out. Or even b
 
 **Project Management**
 
-Agile
-
-Scrum
-
-Trello
+Agile/Scrum/Trello
 
 **Web Development**
 
@@ -20,9 +16,7 @@ ReactJS
 
 HTML/CSS/JS
 
-Bulma
-
-Boostrap
+Bulma/Boostrap
 
 jQuery
 
@@ -30,13 +24,9 @@ jQuery
 
 Canva
 
-Adobe XD
+Adobe XD/Photoshop
 
-Gravit
-
-Flex
-
-Photoshop
+Gravit/Flex
 
 **Mobile Development**
 
@@ -44,7 +34,7 @@ React Native
 
 **Game Development and Design**
 
-C# and Unity
+C#/Unity
 
 
 <!--
