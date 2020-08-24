@@ -12,21 +12,17 @@ Agile/Scrum/Trello
 
 **Web Development**
 
-ReactJS
+ReactJS/jQuery
 
 HTML/CSS/JS
 
 Bulma/Boostrap
 
-jQuery
-
 **Web and Graphic Design**
-
-Canva
 
 Adobe XD/Photoshop
 
-Gravit/Flex
+Gravit/Flex/Canva
 
 **Mobile Development**
 
