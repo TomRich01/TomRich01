@@ -53,7 +53,7 @@ The project uses Bulma/CSS/SASS for the front-end and Nodejs/ExpressJS for the b
 
 **What's Not Working**
 
-:x: Server issue between NodeJS/ExpressJS, mySQL, and the host.
+Server issue between NodeJS/ExpressJS, mySQL, and the host.
 
-:x: Bulma container issue (single issue involving text that has partially been fixed)
+Bulma container issue (single issue involving text that has partially been fixed)
 
