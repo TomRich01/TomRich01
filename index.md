@@ -33,6 +33,6 @@ C#/Unity
 
 ### Current Project
 
-Currently, I'm working on a working prototype of a match-making site called [Matcher](matcher.withaliquid.com)
+Currently, I'm working on a working prototype of a match-making site called [Matcher](https://matcher.withaliquid.com)
 
 The project uses Bulma/CSS/SASS for the front-end and Nodejs/ExpressJS for the back-end. 
