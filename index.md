@@ -36,3 +36,9 @@ C#/Unity
 Currently, I'm working on a working prototype of a match-making site called [Matcher](https://matcher.withaliquid.com)
 
 The project uses Bulma/CSS/SASS for the front-end and Nodejs/ExpressJS for the back-end. 
+
+### Past Projects
+
+Published an Android app on the Playstore using Unity. Currently working to publish another game.
+
+Managed several web projects (6 projects) for tax accountants, real estate agents, and small business owners.
