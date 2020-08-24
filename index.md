@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Portfolio
 
-You can find me on GitHub or at my other site [WithAliquid.com](withaliquid.com)
+You can find me on GitHub or at my other site [WithAliquid.com](http://withaliquid.com/)
 
 ### My Skills and Interests
 
